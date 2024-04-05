@@ -1,0 +1,27 @@
+{"level":"info","message":"New subtract operation requested: 1 subtract 2","service":"calculator-microservice"}
+{"level":"info","message":"New subtract operation requested: 1 subtract 3","service":"calculator-microservice"}
+{"level":"info","message":"New subtract operation requested: 1 subtract 0.1","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input for subtract operation: 1, d","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input for subtract operation: 1/num2=0, undefined","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input for subtract operation: 1/num2=0, undefined","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input for subtract operation: 1/num2=2, undefined","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input for subtract operation: 1/num2=2, undefined","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input for subtract operation: 1/num2=0, undefined","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input for subtract operation: 1 /num2=0, undefined","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input for divide operation: undefined, undefined","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input for divide operation: undefined, undefined","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input for divide operation: undefined, undefined","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input for divide operation: undefined, undefined","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input for divide operation: undefined, undefined","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input for divide operation: undefined, undefined","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input for divide operation: 4/num2=2, undefined","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input for divide operation: 4/num2=2, undefined","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input for add operation: 4/num2=2, undefined","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input for add operation: 4,num2=2, undefined","service":"calculator-microservice"}
+{"level":"info","message":"New add operation requested: 4 add 2","service":"calculator-microservice"}
+{"level":"info","message":"New add operation requested: 4 add 0","service":"calculator-microservice"}
+{"level":"info","message":"New add operation requested: 4 add 0","service":"calculator-microservice"}
+{"level":"info","message":"New add operation requested: 4 add 3","service":"calculator-microservice"}
+{"level":"info","message":"New divide operation requested: 4 divide 2","service":"calculator-microservice"}
+{"level":"info","message":"New divide operation requested: 4 divide 3","service":"calculator-microservice"}
+{"level":"error","message":"Error in divide operation: Division by zero is not allowed.","service":"calculator-microservice"}
