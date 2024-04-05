@@ -16,3 +16,4 @@
 {"level":"error","message":"Invalid input for add operation: 4/num2=2, undefined","service":"calculator-microservice"}
 {"level":"error","message":"Invalid input for add operation: 4,num2=2, undefined","service":"calculator-microservice"}
 {"level":"error","message":"Error in divide operation: Division by zero is not allowed.","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input for sqrt operation: 4, undefined","service":"calculator-microservice"}

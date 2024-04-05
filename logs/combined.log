@@ -25,3 +25,12 @@
 {"level":"info","message":"New divide operation requested: 4 divide 2","service":"calculator-microservice"}
 {"level":"info","message":"New divide operation requested: 4 divide 3","service":"calculator-microservice"}
 {"level":"error","message":"Error in divide operation: Division by zero is not allowed.","service":"calculator-microservice"}
+{"level":"info","message":"New add operation requested: 4 add 3","service":"calculator-microservice"}
+{"level":"error","message":"Invalid input for sqrt operation: 4, undefined","service":"calculator-microservice"}
+{"level":"info","message":"New sqrt operation requested: 4 sqrt null","service":"calculator-microservice"}
+{"level":"info","message":"New sqrt operation requested: 3 sqrt null","service":"calculator-microservice"}
+{"level":"info","message":"New sqrt operation requested: 9 sqrt null","service":"calculator-microservice"}
+{"level":"info","message":"New modulo operation requested: 9 modulo 4","service":"calculator-microservice"}
+{"level":"info","message":"New modulo operation requested: 7 modulo 4","service":"calculator-microservice"}
+{"level":"info","message":"New power operation requested: 7 power 4","service":"calculator-microservice"}
+{"level":"info","message":"New power operation requested: 2 power 8","service":"calculator-microservice"}
