@@ -2,6 +2,10 @@ const express = require('express');
 const app = express();
 const port = 3000;
 
+app.get('/health', (req, res) => {
+  res.status(200).send('OK');
+});
+
 // Function to perform the calculation
 const calculate = (operation, num1, num2) => {
     switch (operation) {
@@ -62,6 +66,7 @@ const handleRequest = (operation, req, res) => {
 };
 
   
+
 
 // Define routes for GET method
 app.get('/api/calculate/:operation', (req, res) => {
